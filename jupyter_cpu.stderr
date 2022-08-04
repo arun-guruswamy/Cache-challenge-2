@@ -1,0 +1,15 @@
+[W 16:16:59.114 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 16:16:59.821 LabApp] JupyterLab extension loaded from /opt/anaconda3-cluster/lib/python3.7/site-packages/jupyterlab
+[I 16:16:59.822 LabApp] JupyterLab application directory is /opt/anaconda3-cluster/share/jupyter/lab
+[I 16:16:59.824 LabApp] Serving notebooks from local directory: /net/pulsar/home/koes/arung/cache-challenge2
+[I 16:16:59.824 LabApp] The Jupyter Notebook is running at:
+[I 16:16:59.824 LabApp] http://10.206.1.14:9926/
+[I 16:16:59.824 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:21:16.917 LabApp] 302 GET / (10.206.0.9) 1.26ms
+[I 16:21:19.554 LabApp] Build is up to date
+[I 16:21:20.268 LabApp] Kernel started: 19f392b0-307e-4182-a605-11e214d27f8d
+[I 16:23:20.139 LabApp] Saving file at /Untitled.ipynb
+[I 16:25:21.107 LabApp] Saving file at /Untitled.ipynb
+[I 16:29:22.126 LabApp] Saving file at /Untitled.ipynb
+[I 16:54:12.563 LabApp] Starting buffering for 19f392b0-307e-4182-a605-11e214d27f8d:561776b7-16e6-4b97-8a3b-2d3ad842c2d2
+slurmstepd: error: *** JOB 8152365 ON n014 CANCELLED AT 2022-07-27T17:27:31 ***

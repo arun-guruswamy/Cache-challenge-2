@@ -1,0 +1,10 @@
+
+Copy/Paste this in your local terminal to ssh tunnel with remote
+-----------------------------------------------------------------
+ssh -N -L 9926:10.206.1.14:9926 arung@cluster.csb.pitt.edu
+-----------------------------------------------------------------
+Then open a browser on your local machine to the following address
+------------------------------------------------------------------
+localhost:9926  (prefix w/ https:// if using password)
+------------------------------------------------------------------
+
